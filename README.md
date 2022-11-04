@@ -1,9 +1,12 @@
 ## Thomas Seleiro
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+[Projects](#projects) |
+[Experience](#experience) |
+[Skills](#skills) |
+[Education](#education) |
+[Hobbies](#hobbies) |
 
 I am a bright and enthusiastic **Ruby junior developper**.
-
 After completing my Masters degree in Maths and Physics at the University of Warwick, I decided to start a Maths PhD at the University of Manchester.
 After 18 months I decided I wanted to move away from theoretical work and pivot towards a career in Tech.
 I want to apply my love of problem solving to concrete challenges and help build new and exiting software using the skills I acquired at [Makers Academy](https://github.com/makersacademy).
@@ -14,7 +17,7 @@ I want to apply my love of problem solving to concrete challenges and help build
 | ---------------------------- | ----------------- | ----------------- |
 | **[Studdent Directory CLI](https://github.com/ThomasSel/student-directory.git)** | A Command line interface to manage a directory of students | Ruby |
 
-## Work Experience
+## Experience
 
 **University of Manchester** (Oct. 2020 to Jun. 2022)  
 PhD in Applied Mathematics (DISCONTINUED) “Fast and Reliable Algorithms for High-Performance Numerical Linear Algebra”, Supervised by Prof. N. Higham and Prof. F. Tisseur
