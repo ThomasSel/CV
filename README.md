@@ -1,6 +1,12 @@
-## Your Name
+## Thomas Seleiro
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+
+I am a bright and enthusiastic **Ruby junior developper**.
+
+After completing my Masters degree in Maths and Physics at the University of Warwick, I decided to start a Maths PhD at the University of Manchester.
+After 18 months I decided I wanted to move away from theoretical work and pivot towards a career in Tech.
+I want to apply my love of problem solving to concrete challenges and help build new and exiting software using the skills I acquired at [Makers Academy](https://github.com/makersacademy).
 
 ## Projects
 
@@ -18,31 +24,18 @@ PhD in Applied Mathematics (DISCONTINUED) “Fast and Reliable Algorithms for Hi
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
 #### Quick Learner
 
 Throughout my accademic projects, I have had to independently learn the tools used in specific fields.
 During my Masters project I had to rapidly learn Blender and how to render Blender frames using a Python API.
 Then in my PhD, I rapidly learning MATLAB in order to focus on my research.
-I have since developped this skill throughout my time in the Makers Accademy by learning even more programming languages and technologies. 
+I have since developped this skill throughout my time in the Makers Academy by learning even more programming languages and technologies. 
 
 #### Communication
 
 During my time as a PhD student I have had to present my work to audiences with different levels of familiarity with my work.
 This has taught me how to communicate clearly and efficiently and to carefully chose the level of detail with which to present my ideas.
-I have also learned how to communicate with my team through collaborative projects and pair programming at Makers Accademy.
+I have also learned how to communicate with my team through collaborative projects and pair programming at Makers Academy.
 
 #### Organisation
 
