@@ -51,27 +51,29 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+#### Other Skills
+
+Languages: Bilingual English and French, limited working Spanish
+
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Oct. 2022 to Feb. 2023)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- OOP, TDD
+- Ruby, RSpec
 
-#### Your University / College (start_date to end_date)
+#### University of Warwick (Oct. 2016 to Jul. 2020)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Mathematics and Physics: 1st class BSc MMathPhys 
+- In my final year project, I programmed a model and used machine learning to predict the shape of a satellite depending on how it reflected sunlight towards earth.
+- Other programming modules including HPC
 
-#### Any other qualifications
+#### Cité Scolaire Internationale, Lyon, France (2009 to 2016)
 
-That in some arguable way make you a better software developer or well-rounded person
+- French Baccalaureate with International Option (OIB): Average 17.41/20, 19/20 in Maths and Physics / Chemistry
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Rock Climbing, Piano and Guitar, Electronics
