@@ -6,20 +6,15 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **[Studdent Directory CLI](https://github.com/ThomasSel/student-directory.git)** | A Command line interface to manage a directory of students | Ruby |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**University of Manchester** (Oct. 2020 to Jun. 2022)  
+PhD in Applied Mathematics (DISCONTINUED) “Fast and Reliable Algorithms for High-Performance Numerical Linear Algebra”, Supervised by Prof. N. Higham and Prof. F. Tisseur
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- Reserching and creating new algorithms to perform basic linear algbra kernels using multiple floating point precisions. 
+- Using MATLAB to implement and test algorithms for accuracy and efficiency.
 
 ## Skills
 
@@ -36,20 +31,23 @@ Consider skills relevent to software development. Then consider your best skills
 -What was the result?
 
 
-#### This Skill
+#### Quick Learner
 
-- Experience
-- Achievements
-- Evidence (STAR)
+Throughout my accademic projects, I have had to independently learn the tools used in specific fields.
+During my Masters project I had to rapidly learn Blender and how to render Blender frames using a Python API.
+Then in my PhD, I rapidly learning MATLAB in order to focus on my research.
+I have since developped this skill throughout my time in the Makers Accademy by learning even more programming languages and technologies. 
 
-#### Another Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+During my time as a PhD student I have had to present my work to audiences with different levels of familiarity with my work.
+This has taught me how to communicate clearly and efficiently and to carefully chose the level of detail with which to present my ideas.
+I have also learned how to communicate with my team through collaborative projects and pair programming at Makers Accademy.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Organisation
+
+My studies have required me to be able to work independently and towards deadlines.
+In order to do so I have learned to organise myself by prioritising tasks and I am able to evaluate my progress in case I need to revaluate those priorities. 
 
 #### Other Skills
 
@@ -58,16 +56,15 @@ Languages: Bilingual English and French, limited working Spanish
 ## Education
 
 #### Makers Academy (Oct. 2022 to Feb. 2023)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD
-- Ruby, RSpec
+- A selective 12 week intense software development bootcamp
+- Specific topics covered include:
+	- OOP, TDD
+	- Ruby, RSpec
 
 #### University of Warwick (Oct. 2016 to Jul. 2020)
 
 - Mathematics and Physics: 1st class BSc MMathPhys 
-- In my final year project, I programmed a model and used machine learning to predict the shape of a satellite depending on how it reflected sunlight towards earth.
+- In my final year project, I programmed a model and used machine learning to predict the shape of a satellite depending on how it reflects sunlight towards earth.
 - Other programming modules including HPC
 
 #### Cité Scolaire Internationale, Lyon, France (2009 to 2016)
