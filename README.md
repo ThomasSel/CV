@@ -34,8 +34,9 @@ I want to apply my love of problem solving to concrete challenges and help build
 **University of Manchester** (Oct. 2020 to Jun. 2022)  
 PhD in Applied Mathematics (DISCONTINUED) “Fast and Reliable Algorithms for High-Performance Numerical Linear Algebra”, Supervised by Prof. N. Higham and Prof. F. Tisseur
 
-- Reserching and creating new algorithms to perform basic linear algbra kernels using multiple floating point precisions.
-- Using MATLAB to implement and test algorithms for accuracy and efficiency.
+- Research and Create new algorithms to perform basic linear algbra operations using multiple floating point precisions.
+- Analyse the numerical behaviour of algorithms in floating point arithmetic.
+- Implement algorithms and test their accuracy and efficiency using MATLAB.
 
 ## Skills
 
