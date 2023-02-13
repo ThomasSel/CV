@@ -15,16 +15,19 @@ I want to apply my love of problem solving to concrete challenges and help build
 ## Tech skills
 
 - Javascript (Node.js, React, Express, Jest, Cypress)
-- Ruby (Sinatra, RSpec)
+- Ruby (Sinatra, RSpec, RuboCop)
 - HTML/CSS (Tailwind CSS)
 - PostgreSQL, MongoDB
 - Git and GitHub
 
 ## Projects
 
-| Name                                                                            | Description                                                | Tech/tools |
-| ------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
-| **[Student Directory CLI](https://github.com/ThomasSel/student-directory.git)** | A Command line interface to manage a directory of students | Ruby       |
+| Name                                                                          | Description                                                                                         | Tech/tools                                                                                                                                                          |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Ecoliday](https://github.com/ThomasSel/Ecoliday)**                         | A web app to calculate the carbon emissions produced by traveling with different modes of transport | Javascript, React, Express, Node.js, MongoDB, Jest, Cypress, Tailwind, [Google Maps API](https://developers.google.com/maps/documentation/distance-matrix/overview) |
+| **[AceBook](https://github.com/ThomasSel/acebook-mern-mineshaft)**            | A small Facebook clone                                                                              | Javascript, React, Express, Node.js, MongoDB, Jest, Cypress, Tailwind                                                                                               |
+| **[Bank Test](https://github.com/ThomasSel/bank-tech-test)**                  | A set of Ruby classes to create a small bank account for which we can format a statement            | Ruby, RSpec, RuboCop                                                                                                                                                |
+| **[Database Server](https://github.com/ThomasSel/database-server-tech-test)** | Lightweight Express server which can store and return key-value pairs                               | Javascript, Node.js, Express, Jest                                                                                                                                  |
 
 ## Experience
 
