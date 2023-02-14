@@ -31,12 +31,13 @@ I want to apply my love of problem solving to concrete challenges and help build
 
 ## Experience
 
-**University of Manchester** (Oct. 2020 to Jun. 2022)  
+#### University of Manchester _(Oct. 2020 to Jun. 2022)_
+
 PhD in Applied Mathematics (DISCONTINUED) “Fast and Reliable Algorithms for High-Performance Numerical Linear Algebra”, Supervised by Prof. N. Higham and Prof. F. Tisseur
 
-- Research and Create new algorithms to perform basic linear algbra operations using multiple floating point precisions.
-- Analyse the numerical behaviour of algorithms in floating point arithmetic.
-- Implement algorithms and test their accuracy and efficiency using MATLAB.
+- Research and Create new algorithms to perform basic linear algbra operations using multiple floating point precisions
+- Analyse the numerical behaviour of algorithms in floating point arithmetic
+- Implement algorithms and test their accuracy and efficiency using MATLAB
 
 ## Skills
 
@@ -68,14 +69,16 @@ Languages: Bilingual English and French, limited working Spanish
 
 - A selective 12 week intense software development bootcamp
 - Specific topics covered include:
-  - OOP, TDD
-  - Ruby, RSpec
+  - Object-Oriented Programming, Test Driven Development, SOLID and DRY principles
+  - Teamwork through Agile methodologies including sprint planning, aiming for a Minimum Viable Product, stand-ups, retros and pair-programming
+  - Version Control and deployment through tools like [Render](https://render.com/)
+  - Debugging and independent problem solving
 
 #### University of Warwick (Oct. 2016 to Jul. 2020)
 
 - Mathematics and Physics: 1st class BSc MMathPhys
 - In my final year project, I programmed a model and used machine learning to predict the shape of a satellite depending on how it reflects sunlight towards earth.
-- Other programming modules including HPC
+- Other programming modules including HPC in C using OpenMP and MPI
 
 #### Cité Scolaire Internationale, Lyon, France (2009 to 2016)
 
@@ -83,4 +86,7 @@ Languages: Bilingual English and French, limited working Spanish
 
 ## Hobbies
 
-Rock Climbing, Piano and Guitar, Electronics
+- Rock Climbing
+- Piano and Guitar
+- Electronics
+- Video Games
