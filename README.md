@@ -41,6 +41,18 @@ PhD in Applied Mathematics (DISCONTINUED) “Fast and Reliable Algorithms for Hi
 
 ## Skills
 
+#### Analytical Thinking
+
+Studying Maths taught me analytical thinking through the heavy emphasis on rationally proving every statement.
+This emphasis has influenced how I tackle programming problems, by helping me identify and focus on edge cases and errors that could occur, as well as ensuring my code follows a logical progression.
+
+#### Problem Solving
+
+At University I was supplied with a stream of problems where I had to apply theoretical knowledge to come up with solutions.
+These problems gradually became larger in scope, especially with my Masters and PhD projects which taught me to organise my work and deconstruct problems into manageable chunks.
+Makers Academy provided opportunities to apply this to tech problems with both small scale problem solving (eg debugging) as well as larger scale thinking such as how to organise and develop projects from the ground up, particularly in our final project.
+In particular I really enjoyed the 'refactor' stage in the TDD process because it me to think of different, more elegant / concise ways of solving problems.
+
 #### Quick Learner
 
 Throughout my academic projects, I have had to independently learn tools used in specific fields.
@@ -54,11 +66,6 @@ As such I feel confident learning any required technical skill independently and
 As a PhD student I have presented my work to audiences with different levels of familiarity with my work.
 This has taught me to communicate clearly and efficiently and to carefully chose the level of detail with which to present my ideas.
 I have also learned how to work and communicate as part of a team through collaborative projects at Makers Academy, and pair programming has helped teach me how to communicate technical ideas well.
-
-#### Organisation
-
-My studies have required me to be able to work independently and towards deadlines.
-In order to do so I have learned to organise myself by prioritising tasks and I am able to evaluate my progress in case I need to revaluate those priorities.
 
 #### Other Skills
 
