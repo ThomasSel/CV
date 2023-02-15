@@ -1,5 +1,6 @@
 # Thomas Seleiro
 
+[About Me](#about-me) |
 [Projects](#projects) |
 [Tech skills](#tech-skills) |
 [Experience](#experience) |
@@ -7,10 +8,15 @@
 [Education](#education) |
 [Hobbies](#hobbies) |
 
-I am a bright and enthusiastic **Ruby junior developer**.
+## About me
+
+I am a bright and enthusiastic **junior full-stack developer** looking to continue my journey in the tech industry working for a team that has a beneficial impact on society.
+
 After completing my Masters degree in Maths and Physics at the University of Warwick, I decided to start a Maths PhD at the University of Manchester.
-After 18 months I decided I wanted to move away from theoretical work and pivot towards a career in Tech.
-I want to apply my love of problem solving to concrete challenges and help build new and exiting software using the skills I acquired at [Makers Academy](https://github.com/makersacademy).
+I really enjoyed the programming work during in my academic career, but I felt like my career would never allow me to create tangible things that others could understand and use.
+Therefore, after 18 months I decided I wanted to move away from theoretical work and software development seemed like a great choice for me to pivot to.
+
+I want to build on the skills I've acquired at [Makers Academy](https://github.com/makersacademy) and apply my love of problem solving to concrete challenges with the goal of building new and exiting software that I can be proud of.
 
 ## Tech skills
 
