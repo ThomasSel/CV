@@ -37,9 +37,9 @@ I want to build on the skills I've acquired at [Makers Academy](https://github.c
 
 ## Experience
 
-#### University of Manchester _(Oct. 2020 to Jun. 2022)_
+#### PhD in Applied Mathematics (DISC.) - University of Manchester _(Oct. 2020 to Jun. 2022)_
 
-PhD in Applied Mathematics (DISCONTINUED) “Fast and Reliable Algorithms for High-Performance Numerical Linear Algebra”, Supervised by Prof. N. Higham and Prof. F. Tisseur
+“Fast and Reliable Algorithms for High-Performance Numerical Linear Algebra”, Supervised by Prof. N. Higham and Prof. F. Tisseur
 
 - Research and Create new algorithms to perform basic linear algebra operations using multiple floating point precisions
 - Analyse the numerical behaviour of algorithms in floating point arithmetic
@@ -79,22 +79,21 @@ Languages: Bilingual English and French, limited working Spanish
 
 ## Education
 
-#### Makers Academy (Oct. 2022 to Feb. 2023)
+#### 16 week intense software development bootcamp - Makers Academy _(Oct. 2022 to Feb. 2023)_
 
-- A selective 12 week long intense software development bootcamp
 - Specific topics covered include:
   - Object-Oriented Programming, Test Driven Development and DRY principles
   - Teamwork through Agile methodologies including sprint planning, aiming for a Minimum Viable Product, stand-ups, retros and pair-programming
   - Version Control and deployment through tools like [Render](https://render.com/)
   - Debugging and independent problem solving
 
-#### University of Warwick (Oct. 2016 to Jul. 2020)
+#### Integrated Masters in Mathematics and Physics (First-Class Honours) - University of Warwick _(Oct. 2016 to Jul. 2020)_
 
 - Mathematics and Physics: 1st class BSc MMathPhys
 - In my final year project, I programmed a model and used machine learning to predict the shape of a satellite depending on how it reflects sunlight towards earth.
 - Other programming modules including High Performance Computing in C, using OpenMP and MPI
 
-#### Cité Scolaire Internationale, Lyon, France (2009 to 2016)
+#### Cité Scolaire Internationale, Lyon, France _(2009 to 2016)_
 
 - French Baccalaureate with International Option (OIB): Average 17.41/20, 19/20 in Maths and Physics / Chemistry
 
