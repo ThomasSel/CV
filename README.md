@@ -86,6 +86,7 @@ Languages: Bilingual English and French, limited working Spanish
   - Teamwork through Agile methodologies including sprint planning, aiming for a Minimum Viable Product, stand-ups, retros and pair-programming
   - Version Control and deployment through tools like [Render](https://render.com/)
   - Debugging and independent problem solving
+  - EQ workshops to learn to better communicate and give / receive feedback
 
 #### Integrated Masters in Mathematics and Physics (First-Class Honours) - University of Warwick _(Oct. 2016 to Jul. 2020)_
 
