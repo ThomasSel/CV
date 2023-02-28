@@ -90,9 +90,8 @@ Languages: Bilingual English and French, limited working Spanish
 
 #### Integrated Masters in Mathematics and Physics (First-Class Honours) - University of Warwick _(Oct. 2016 to Jul. 2020)_
 
-- Mathematics and Physics: 1st class BSc MMathPhys
-- In my final year project, I programmed a model and used machine learning to predict the shape of a satellite depending on how it reflects sunlight towards earth.
-- Other programming modules including High Performance Computing in C, using OpenMP and MPI
+- Programmed a satellite model and used machine learning to predict its shape depending on how it reflects sunlight towards earth (final year project)
+- Learned Python and High Performance Computing in C, using OpenMP and MPI
 
 #### Cité Scolaire Internationale, Lyon, France _(2009 to 2016)_
 
